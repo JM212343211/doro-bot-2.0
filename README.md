@@ -170,7 +170,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 
 ```bash
 # Paso 3: Clonar repositorio
-git clone https://github.com/JM212343211/DORO- && cd DORO-
+git clone https://github.com/JM212343211/doro-bot-2.0.git- && cd doro 2.0
 ```
 
 ```bash
@@ -218,7 +218,7 @@ cd DORO- && nano settings.js
 <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 30px; border-radius: 25px; text-align: center; box-shadow: 0 15px 35px rgba(79, 172, 254, 0.4); transition: transform 0.3s ease, box-shadow 0.3s ease; position: relative; overflow: hidden;">
   <div style="position: absolute; bottom: -50%; right: -50%; width: 200%; height: 200%; background: conic-gradient(from 180deg, transparent, rgba(255,255,255,0.1), transparent); animation: rotate 15s linear infinite reverse;"></div>
   <h3 style="color: white; margin-bottom: 20px; font-size: 24px; position: relative; z-index: 2;">💫 **GRUPO OFICIAL**</h3>
-  <a href="https://chat.whatsapp.com/FH2WpUdmHrhIOjIIuQY4il" style="display: inline-block; background: rgba(255,255,255,0.2); color: white; padding: 15px 30px; text-decoration: none; border-radius: 30px; font-weight: bold; transition: all 0.3s ease; font-size: 16px; backdrop-filter: blur(10px); border: 2px solid rgba(255,255,255,0.3); position: relative; z-index: 2;">
+  <a href="https://chat.whatsapp.com/Cz1gpCOstra9lMZx1ghaef" style="display: inline-block; background: rgba(255,255,255,0.2); color: white; padding: 15px 30px; text-decoration: none; border-radius: 30px; font-weight: bold; transition: all 0.3s ease; font-size: 16px; backdrop-filter: blur(10px); border: 2px solid rgba(255,255,255,0.3); position: relative; z-index: 2;">
     🎮 **¡ÚNETE AHORA!**
   </a>
 </div>
@@ -226,7 +226,7 @@ cd DORO- && nano settings.js
 <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 30px; border-radius: 25px; text-align: center; box-shadow: 0 15px 35px rgba(250, 112, 154, 0.4); transition: transform 0.3s ease, box-shadow 0.3s ease; position: relative; overflow: hidden;">
   <div style="position: absolute; top: -30%; left: -30%; width: 160%; height: 160%; background: conic-gradient(from 45deg, transparent, rgba(255,255,255,0.1), transparent); animation: rotate 12s linear infinite;"></div>
   <h3 style="color: white; margin-bottom: 20px; font-size: 24px; position: relative; z-index: 2;">🌟 **COMUNIDAD**</h3>
-  <a href="https://chat.whatsapp.com/Il1n6P5Agzu4SJUesVKRjT" style="display: inline-block; background: rgba(255,255,255,0.2); color: white; padding: 15px 30px; text-decoration: none; border-radius: 30px; font-weight: bold; transition: all 0.3s ease; font-size: 16px; backdrop-filter: blur(10px); border: 2px solid rgba(255,255,255,0.3); position: relative; z-index: 2;">
+  <a href="https://chat.whatsapp.com/Ep7hBTfOQmm4VFTAk2yESp" style="display: inline-block; background: rgba(255,255,255,0.2); color: white; padding: 15px 30px; text-decoration: none; border-radius: 30px; font-weight: bold; transition: all 0.3s ease; font-size: 16px; backdrop-filter: blur(10px); border: 2px solid rgba(255,255,255,0.3); position: relative; z-index: 2;">
     👥 **¡ÚNETE AHORA!**
   </a>
 </div>
