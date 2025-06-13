@@ -1,5 +1,5 @@
 {
-"name": "doro-bot",
+"name": "doro-bot-2.0",
 "version": "2.2.0",
 "description": "WhatsApp Bot Multi Device",
 "main": "index.js",
@@ -18,20 +18,20 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "git+https:https://github.com/JM212343211/doro-bot-2.0.git"",
+"homepage": "https://github.com/JM212343211/doro-bot-2.0",
 "author": {
-"name": "I AM JM"
+"name": "https_(S2)"
 },
 "repository": {
 "type": "git",
-"url": "git+https:https://github.com/JM212343211/doro-bot-2.0.git"
+"url": "git+https://github.com/JM212343211/doro-bot-2.0.git"
 },
 "bugs": {
-"url": "https://github.com/JM212343211/doro-bot-2.0.git"
+"url": "https://github.com/JM212343211/doro-bot-2.0.git/issues"
 },
 "license": "MIT-License",
 "dependencies": {
-"@whiskeysockets/baileys": "github:nstar-y/bail",
+"@whiskeysockets/baileys": "github:gatanina-li/baileys",
 "@adiwajshing/keyed-db": "^0.2.4",
 "@bochilteam/scraper": "^4.2.4",
 "@bochilteam/scraper-sosmed": "^1.0.5",
